@@ -1,4 +1,6 @@
-# LifeCycle
+# First Project Angular - my blog
+
+This is my first project with Angular. It's not finished yet, it's the start of my first blog.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
