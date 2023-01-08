@@ -1,0 +1,16 @@
+div .big-card{
+    margin-top: 0px;
+}
+.big-card-container{
+    background-color: blanchedalmond; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+div .image-big-card {
+   background-color:rgb(240, 145, 211);
+   height: 250px;
+   width: 700px;
+}

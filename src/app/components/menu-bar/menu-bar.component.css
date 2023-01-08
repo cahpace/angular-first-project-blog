@@ -1,0 +1,13 @@
+.menu-bar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+* {
+    background-color: rgb(187, 154, 187);
+
+}
